@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.3",
+  "service": "AnimeToast",
+  "author": {
+    "name": "JoshiZockt_",
+    "id": "299251045513691137"
+  },
+  "category": "anime",
+  "logo": "https://www.animetoast.com/wp-content/uploads/2020/10/devil.png",
+  "thumbnail": "https://www.animetoast.com/wp-content/uploads/2020/10/devil.png",
+  "version": "1.0.0",
+  "color": "#cad709",
+  "tags": [
+    "anime",
+    "toast",
+    "animetoast",
+    "streaming"
+  ],
+  "url": "www.animetoast.cc",
+  "description": {
+    "de": "AnimeToast",
+    "en": "AnimeToast"
+  }
+}
